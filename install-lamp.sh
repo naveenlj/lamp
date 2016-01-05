@@ -1,4 +1,5 @@
 #/bin/bash
+# RHEL 7
 
 set -x 
 
